@@ -1,9 +1,11 @@
 # PatternFly4 Examples
-Project Root: "localhost/"
+#### Components Showcased: DataList, Card, Modal, Alert, Button and Login Page.
+
+## Project Root: "localhost/"
 
 ![img](https://i.imgur.com/fBbGZok.png)
 
-Login Page: "localhost/login"
+## Login Page: "localhost/login"
 
 ![img](https://i.imgur.com/Av8FMvM.png)
 
